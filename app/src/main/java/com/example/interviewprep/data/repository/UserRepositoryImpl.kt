@@ -7,6 +7,7 @@ import androidx.paging.PagingData
 import androidx.paging.map
 import com.example.interviewprep.data.local.AppDatabase
 import com.example.interviewprep.data.local.entity.toDomain
+import com.example.interviewprep.data.local.entity.toEntity
 import com.example.interviewprep.data.paging.UserRemoteMediator
 import com.example.interviewprep.data.remote.ApiService
 import com.example.interviewprep.data.remote.dto.toDomain
